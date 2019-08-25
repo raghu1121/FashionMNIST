@@ -1,0 +1,6 @@
+Fashion-MNIST
+*.pth
+__pycache__
+*.t7
+*.pyc
+*idea
