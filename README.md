@@ -1,4 +1,4 @@
-# Fashion-MNIST with over 95% accuracy
+# Fashion-MNIST with 95% accuracy
 This architecture is basically a densenet adapted from the Huang et al. paper
 
 Here are the configurations that are tried and the accuracies achieved.
